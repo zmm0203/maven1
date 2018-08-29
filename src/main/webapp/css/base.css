@@ -1,0 +1,36 @@
+.box{
+    background: white;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 30%;
+}
+.wenzi{
+    font-size: 30px;
+    margin-left: 200px;
+    font-family: 楷体;
+}
+.liuyan{
+    background: white;
+    width: 400px;
+    height: 100px;
+    margin-left: 30px;
+    border: 1px solid royalblue;
+}
+.liuyan_1{
+    background: royalblue;
+    width: 400px;
+    height: 25px;
+    border-bottom: 1px solid royalblue;
+}
+.liuyan_2{
+     background: white;
+     width: 400px;
+     height: 50px;
+     border-bottom: 1px solid royalblue;
+ }
+.liuyan_3{
+    background: white;
+    width: 400px;
+    height: 23px;
+}
